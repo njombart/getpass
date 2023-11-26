@@ -14,4 +14,4 @@ I have something for you!
 
 Just a little script that will read and parse your keepass 2.x database, grep on the title for something and print out login and password.
 
-Happy? You just have to install File::KeePass (you probably have Term::ReadKey already), and enjoy
+Happy? You just have to install `File::KeePass` (you probably have `Term::ReadKey` already), edit the database name in `getpass.pl` and enjoy!
