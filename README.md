@@ -1,6 +1,6 @@
 # getpass - simple CLI password puller for Keepass
 
-UPDATE: This project was only an experiment, stuff like (kpcli[https://kpcli.sourceforge.io/] are bettter
+UPDATE: This project was only an experiment, stuff like [kpcli](https://kpcli.sourceforge.io/) are bettter
 
 ## words
 
