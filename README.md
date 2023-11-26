@@ -1,7 +1,8 @@
-getpass
-=======
+# getpass - simple CLI password puller for Keepass
 
-simple CLI password puller for Keepass
+UPDATE: This project was only an experiment, stuff like (kpcli[https://kpcli.sourceforge.io/] are bettter
+
+## words
 
 You are using keepass on a daily basis ?
 You are happy with it, but sometimes you just need, for some reason, to quickly look for a password to copy/paste?
@@ -12,5 +13,4 @@ You care about security but you don't honestly really mind to print a password o
 I have something for you!
 Just a little script that will read and parse your keepass 2.x database, grep on the title for something and print out login and password.
 
-Happy? You just have to install File::KeePass (you probably have Term::ReadKey already), and enjoy:
-
+Happy? You just have to install File::KeePass (you probably have Term::ReadKey already), and enjoy
